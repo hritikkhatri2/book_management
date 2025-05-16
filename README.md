@@ -127,13 +127,6 @@ alembic upgrade head
 4. Create API endpoints in `app/api/routes/`
 5. Update documentation
 
-## Testing
-
-Run tests with:
-```bash
-pytest
-```
-
 ## Contributing
 
 1. Fork the repository
